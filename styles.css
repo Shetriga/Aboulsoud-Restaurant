@@ -6,10 +6,53 @@ body {
 #logo {
   text-align: center;
   margin-top: 100px;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
 }
 
 .logo-image {
   width: 80%;
   height: 80%;
+  margin-bottom: 30px;
+}
+
+.slogan {
+  font-size: 6rem;
+  color: #fff;
+  font-family: 'Lemonada', cursive;
+}
+
+/* MASHWEYAT SECTION */
+#mashweyat {
+  text-align: center;
+  margin-bottom: 100px;
+  color: #fff;
+}
+
+.menu-heading {
+  font-size: 5.5rem;
+  margin-bottom: 50px;
+  color: #f58b54;
+  text-align: right;
+  margin-right: 100px;
+}
+
+.menu-item {
+  margin: 10px 0;
+  font-size: 1.6rem;
+  font-family: 'Markazi Text', serif;
+  text-align: right;
+}
+
+.menu-item-price {
+  margin: 10px 0;
+  font-size: 1.6rem;
+  font-family: 'Markazi Text', serif;
+}
+
+.col-colored {
+  background-color: #706c61;
+}
+
+.container {
+  padding-left: 200px;
 }
